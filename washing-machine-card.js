@@ -5,7 +5,7 @@
  * animated illustration (washer / dryer / dishwasher / oven / microwave), live status,
  * power gauge and last-cycle stats.
  *
- * Prototype extension: optional remaining_entity support (minutes, end timestamp, or H:MM:SS).
+ * Optional remaining_entity support accepts minutes, an end timestamp, or H:MM:SS.
  * When valid, remaining time is shown in both the ring and appliance display; otherwise
  * the original elapsed-time behaviour is preserved.
  *
