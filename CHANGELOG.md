@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
   be parsed, the card falls back to its existing elapsed-time behaviour. The card
   does not calculate predictions itself; any integration or helper can provide
   the value.
-
+  Contributed by [@Xavi2503](https://github.com/Xavi2503) (#35); requested in #22 and #28.
 - **`image_tap_action`** — choose what tapping the appliance illustration does,
   with Home Assistant's standard card actions: open another dashboard
   (`navigate`), a web page (`url`), a more-info dialog, or run an action. Handy for
